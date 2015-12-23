@@ -1,2 +1,5 @@
-# Yeti_ST3
-Yeti_UI Port for ST3
+# Yeti
+
+`SublimeText 3 Theme` Port of Yeti_UI by [jesseweed](https://github.com/jesseweed/yeti-ui)
+
+**Stay Tuned**
