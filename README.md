@@ -36,7 +36,7 @@ Theme is listed as [Yeti_UI](https://packagecontrol.io/packages/Yeti_UI) on Will
 1. [Download the .zip](https://github.com/ctf0/Yeti_ST3/archive/master.zip).
 2. Unzip and rename the folder to `Yeti_UI`.
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text.
-4. Copy the (+res/fold.png) "or edit it to ur liking" to `Packages/Theme - Default` to override the default code folding icon.
+4. Copy the (Resource/fold.png) "or edit it to ur liking" to `Packages/Theme - Default` to override the default code folding icon.
 
 ## Setup
 
