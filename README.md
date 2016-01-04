@@ -1,37 +1,42 @@
 # Yeti
 
+[![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Yeti_UI.svg?style=flat-square)](https://packagecontrol.io/packages/Yeti_UI/)
+[![GitHub release](https://img.shields.io/github/release/ctf0/Yeti_ST3.svg?style=flat-square&label=latest%20release)](https://github.com/ctf0/Yeti_ST3/releases/latest/)
+[![GitHub issues](https://img.shields.io/github/issues/ctf0/Yeti_ST3.svg?style=flat-square)](https://github.com/ctf0/Yeti_ST3/issues?utf8=✓&q=is%3Aissue+is%3Aopen)
+[![GitHub watchers](https://img.shields.io/github/watchers/ctf0/Yeti_ST3.svg?style=flat-square)](https://github.com/ctf0/Yeti_ST3/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/ctf0/Yeti_ST3.svg?style=flat-square)](https://github.com/ctf0/Yeti_ST3/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/ctf0/Yeti_ST3.svg?style=flat-square)](https://github.com/ctf0/Yeti_ST3/network/)
+
 `SublimeText 3 Theme` Port of Yeti_UI by [jesseweed](https://github.com/jesseweed/yeti-ui)
 
+## Screenshots
 
-###### Yeti.sublime-theme
+### Yeti.sublime-theme
+
 ![Yeti Screenshot](./Resource/screenshot-1.png)
-###### Yeti_orig.sublime-theme
+
+### Yeti_orig.sublime-theme
+
 ![Yeti Screenshot](./Resource/screenshot-2.png)
 
+## Notes
 
-# Notes
-
-- Any thing less than 'ST3 Build 3062' wont get the sidebar icons to work.
-
-- if you used any of the resources in this repo into your own release ,plz appreciate the hard work and mention the original authors.
-
-- A New/Better syntax Highlight released under [Yeti_UX](https://sublime.wbond.net/packages/Yeti_UX).
+* Any thing less than 'ST3 Build 3062' wont get the sidebar icons to work.
+* if you used any of the resources in this repo into your own release ,plz appreciate the hard work and mention the original authors.
+* A New/Better syntax Highlight released under [Yeti_UX](https://packagecontrol.io/packages/Yeti_UX).
 
 ## Install
 
 ### Via Package Control
 
-Theme is listed as [Yeti_UI](https://sublime.wbond.net/packages/Yeti_UI) on Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Theme is listed as [Yeti_UI](https://packagecontrol.io/packages/Yeti_UI) on Will Bond's [Sublime Package Control](https://packagecontrol.io).
 
 ### Manual
 
 1. [Download the .zip](https://github.com/ctf0/Yeti_ST3/archive/master.zip).
-
-2. Unzip and rename the folder to ``Yeti_UI``.
-
+2. Unzip and rename the folder to `Yeti_UI`.
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text.
-
-4. copy the (+res/fold.png) "or edit it to ur liking" to ``Packages/Theme - Default`` to override the default code folding icon.
+4. Copy the (+res/fold.png) "or edit it to ur liking" to `Packages/Theme - Default` to override the default code folding icon.
 
 ## Setup
 
@@ -49,7 +54,7 @@ Activate the `Theme` by modifying your user preferences file, which you can find
 
 `Themr` have an option call ``Themr: Toggle Theme Settings`` to change theme settings on-the-fly , or manually add what you need from below.
 
-```
+```json
 {
 // tabs
   "Seti_no_blue_bar": true,               // remove the blue bar under the un-saved tabs
@@ -102,16 +107,12 @@ Activate the `Theme` by modifying your user preferences file, which you can find
 
 ## Differences from the original
 
-- No file icon in the opened tabs, ST lacks this.
-
-- Current line number highlight color, ST lacks this.
+* No file icon in the opened tabs, ST lacks this.
+* Current line number highlight color, ST lacks this.
 
 ## Issue A Ticket
 
-1. what version of ST are you using ? (nothing lower than 3062).
-
-2. have you restarted ST after you installed the theme ?.
-
-3. if you still have bad render ,have you removed the cache folder ? (found right next to the packages folder).
-
-4. have you copied the files from the "Ext" folder to your User folder ?.
+1. What version of ST are you using? (nothing lower than 3062)
+2. Have you restarted ST after you installed the theme?
+3. If you still have bad render, have you removed the cache folder (found right next to the packages folder)?
+4. Have you copied the files from the `Ext` folder to your User folder?
