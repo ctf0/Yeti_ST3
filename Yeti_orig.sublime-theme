@@ -535,6 +535,14 @@
         "parents": [{"class": "status_bar"}],
         "color": [97, 89, 81]
     },
+    // panel switcher
+    {
+        "class": "panel_button_control",
+        "layer0.texture": "Yeti_UI/Main/panels.png",
+        "layer0.opacity": 0.7,
+        "layer0.tint": [97, 89, 81],
+        "content_margin": [12, 8]
+    },
 
 //========================================================
 //  SIDEBAR
