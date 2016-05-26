@@ -77,19 +77,19 @@ Activate the `Theme` by modifying your user preferences file, which you can find
   "Seti_sb_big_padding": true,            // sidebar entries padding = 10
   "Seti_sb_tree_med": true,               // sidebar tree padding = 15
   "Seti_sb_tree_small": true,             // sidebar tree padding = 10
-  "Seti_sb_tree_tiny": true,              // check (issues/88)
-  "Seti_sb_tree_miny": true,              // check (issues/88)
+  "Seti_sb_tree_tiny": true,              // check (seti/issues/88)
+  "Seti_sb_tree_miny": true,              // check (seti/issues/88)
   "Seti_show_group_arrows": true,         // show the folder/group arrows in sidebar
-  "Seti_sb_no_icons": true,               // check (issues/133)
-  "Seti_sb_blank": true,                  // check (issues/133)
+  "Seti_sb_no_icons": true,               // check (seti/issues/133)
+  "Seti_sb_blank": true,                  // check (seti/issues/133)
   "Seti_bold_slctdfile_labels": true,     // make the sidebar selected file text in bold
-  "Seti_sidebar_font_size_12": true,      // check (issues/115)
-  "Seti_sidebar_font_size_13": true,      // check (issues/115)
-  "Seti_sidebar_font_size_14": true,      // check (issues/115)
-  "Seti_sidebar_font_Ubuntu": true,       // check (issues/115)
-  "Seti_sidebar_font_Fira": true,         // check (issues/115)
-  "Seti_sidebar_font_Hack": true,         // check (issues/115)
-  "Seti_sidebar_font_Source": true,       // check (issues/115)
+  "Seti_sidebar_font_size_12": true,      // check (seti/issues/115)
+  "Seti_sidebar_font_size_13": true,      // check (seti/issues/115)
+  "Seti_sidebar_font_size_14": true,      // check (seti/issues/115)
+  "Seti_sidebar_font_Ubuntu": true,       // check (seti/issues/115)
+  "Seti_sidebar_font_Fira": true,         // check (seti/issues/115)
+  "Seti_sidebar_font_Hack": true,         // check (seti/issues/115)
+  "Seti_sidebar_font_Source": true,       // check (seti/issues/115)
   "Seti_heading_font_12": true,           // heading font size = 12
   "Seti_bold_heading": true,              // make heading font in bold
 
