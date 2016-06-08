@@ -1,7 +1,5 @@
 # Yeti
 
-[![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Yeti_UI.svg?style=flat-square)](https://packagecontrol.io/packages/Yeti_UI/)
-
 `SublimeText 3 Theme` Port of Yeti_UI by [jesseweed](https://github.com/jesseweed/yeti-ui)
 
 ## Screenshots
