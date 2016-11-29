@@ -20,10 +20,6 @@
 
 ## Install
 
-### Via Package Control
-
-Theme is listed as [Yeti_UI](https://packagecontrol.io/packages/Yeti_UI) on Will Bond's [Sublime Package Control](https://packagecontrol.io).
-
 ### Manual
 
 1. [Download the .zip](https://github.com/ctf0/Yeti_ST3/archive/master.zip).
